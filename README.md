@@ -1,10 +1,10 @@
 # UAS_PengolahanCitra
 # SEANNETA APFIA AULIA PRAMESTI - 202131099
-praktikum terlampir di file [UAS.ipynb](https://github.com/sensenx/UAS_PengolahanCitra/blob/main/UAS.ipynb) <br>
-untuk data citra [ppllatt.jpg](https://github.com/sensenx/UAS_PengolahanCitra/blob/main/ppllatt.jpg) <br>
-untuk hasil crop citra biner [platcitrabiner.png](https://github.com/sensenx/UAS_PengolahanCitra/blob/main/platcitrabiner.png) <br>
-untuk hasil crop citra grayscale [platcitraedged.png](https://github.com/sensenx/UAS_PengolahanCitra/blob/main/platcitraedged.png) <br>
-untuk hasil deskripsi foto melalui kamera hp saya [deskripsi.jpg](https://github.com/sensenx/UAS_PengolahanCitra/blob/main/deskripsi,jpg) <br>
+praktikum terlampir di file [UAS.ipynb](https://github.com/sensenx/UAS_PengolahanCitra/blob/main/UAS.ipynb) :rocket: <br> 
+untuk data citra [ppllatt.jpg](https://github.com/sensenx/UAS_PengolahanCitra/blob/main/ppllatt.jpg) :car: <br> 
+untuk hasil crop citra biner [platcitrabiner.png](https://github.com/sensenx/UAS_PengolahanCitra/blob/main/platcitrabiner.png) :black_large_square: <br> 
+untuk hasil crop citra grayscale [platcitraedged.png](https://github.com/sensenx/UAS_PengolahanCitra/blob/main/platcitraedged.png) :white_large_square: <br> 
+untuk hasil deskripsi foto melalui kamera hp saya [deskripsi.jpg](https://github.com/sensenx/UAS_PengolahanCitra/blob/main/deskripsi,jpg) :camera_flash: <br> 
 
 <h3> library yang digunakan : </h3>
 
