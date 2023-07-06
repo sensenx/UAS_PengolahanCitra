@@ -1,12 +1,17 @@
 # UAS_PengolahanCitra
+# SEANNETA APFIA AULIA PRAMESTI - 202131099
 praktikum terlampir di file UAS.ipynb
 untuk data citra ppllatt.jpg
+untuk hasil crop citra biner platcitrabiner.png
+untuk hasil crop citra edged platcitraedged.png
 
 library yang digunakan :
 - imutils
 - opencv
 - numpy
 - matplotlib
+
+teori :
 
 penjelasan
 - masukkan library yang dibutuhkan
